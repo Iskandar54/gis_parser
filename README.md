@@ -4,7 +4,7 @@
 
 ### 1.1 Eсли вы используете готовый образ из Docker Hub::
 
-docker pull iskandar54/gis-parser:latest???
+docker pull iskandar54/gis_parser:1.0
 
 ### 1.2 Или скачиваем с Git Hub:
 
