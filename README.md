@@ -9,7 +9,8 @@ docker pull iskandar54/gis_parser:1.0
 ### 1.2 Или скачиваем с Git Hub:
 
 git clone https://github.com/Iskandar54/gis-parser.git
-cd 2gis-parser
+
+cd gis-parser
 
 ### 2. Создайте `.env` файл с настройками:
 
